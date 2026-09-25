@@ -1,0 +1,31 @@
+id,latitude,longitude,title,price,lister_url
+1,51.539743,-0.10149,4 Bed Flat in Islington,1806240,https://example.com/listing/1
+2,51.523798,-0.081913,2 Bed Flat in Shoreditch,708314,https://example.com/listing/2
+3,51.462519,-0.137777,3 Bed Flat in Clapham,1148098,https://example.com/listing/3
+4,51.530583,-0.121872,2 Bed Flat in King's Cross,1567246,https://example.com/listing/4
+5,51.462958,-0.138529,1 Bed Flat in Clapham,1465508,https://example.com/listing/5
+6,51.507294,-0.116051,1 Bed Flat in South Bank,1070792,https://example.com/listing/6
+7,51.512731,-0.136459,3 Bed House in Soho,1743017,https://example.com/listing/7
+8,51.497549,-0.126121,3 Bed House in Westminster,1203993,https://example.com/listing/8
+9,51.543143,-0.144727,2 Bed House in Camden,1941839,https://example.com/listing/9
+10,51.461947,-0.139145,4 Bed Flat in Clapham,1974077,https://example.com/listing/10
+11,51.512166,-0.138093,3 Bed Flat in Soho,525592,https://example.com/listing/11
+12,51.487817,-0.169553,2 Bed House in Chelsea,844454,https://example.com/listing/12
+13,51.488527,-0.167233,1 Bed Flat in Chelsea,1951126,https://example.com/listing/13
+14,51.489256,-0.168125,2 Bed Flat in Chelsea,1728166,https://example.com/listing/14
+15,51.536144,-0.101558,2 Bed Flat in Islington,983000,https://example.com/listing/15
+16,51.52408,-0.078486,1 Bed Flat in Shoreditch,842181,https://example.com/listing/16
+17,51.539566,-0.100453,1 Bed House in Islington,1897336,https://example.com/listing/17
+18,51.531681,-0.122424,1 Bed Flat in King's Cross,1650487,https://example.com/listing/18
+19,51.523281,-0.078291,3 Bed Flat in Shoreditch,1853464,https://example.com/listing/19
+20,51.541242,0.00296,4 Bed Flat in Stratford,1138882,https://example.com/listing/20
+21,51.487362,-0.167323,4 Bed Flat in Chelsea,1216544,https://example.com/listing/21
+22,51.497754,-0.125115,1 Bed Flat in Westminster,989844,https://example.com/listing/22
+23,51.508334,-0.117389,2 Bed Flat in South Bank,1839608,https://example.com/listing/23
+24,51.531679,-0.122775,2 Bed Flat in King's Cross,427066,https://example.com/listing/24
+25,51.524,-0.082185,2 Bed House in Shoreditch,1881621,https://example.com/listing/25
+26,51.48739,-0.167865,2 Bed House in Chelsea,821369,https://example.com/listing/26
+27,51.512689,-0.137684,3 Bed House in Soho,957318,https://example.com/listing/27
+28,51.5145,-0.135763,2 Bed House in Soho,488458,https://example.com/listing/28
+29,51.488297,-0.16769,1 Bed House in Chelsea,1591409,https://example.com/listing/29
+30,51.540116,-0.142616,4 Bed House in Camden,1884088,https://example.com/listing/30

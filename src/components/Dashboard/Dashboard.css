@@ -1,0 +1,92 @@
+.dashboard-container {
+    min-height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard-header {
+    background-color: #143A78;
+    padding: 24px;
+    text-align: center;
+    border-bottom: 1px solid #0F2C5A;
+}
+
+.dashboard-title {
+    font-size: 32px;
+    color: #ffffff;
+    margin-bottom: 4px;
+}
+
+.dashboard-subtitle {
+    color: #d1e4f7;
+    font-size: 16px;
+}
+
+.dashboard-main {
+    display: flex;
+    flex-grow: 1;
+    background-color: #e8f0fa;
+}
+
+.dashboard-sidebar {
+    width: 220px;
+    background-color: #0F2C5A;
+    padding: 24px;
+    border-right: 1px solid #0C2347;
+    padding: 20px;
+}
+
+
+.sidebar-heading {
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+.sidebar-button {
+    background-color: #0F2C5A; /* same as sidebar background */
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 100%;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s ease;
+}
+
+.sidebar-button:hover {
+    background-color: #112342; /* slightly darker on hover */
+  }
+
+.logout-container {
+    margin-top: auto;
+  }
+
+.dashboard-content {
+    flex-grow: 1;
+    padding: 32px;
+    background-color: #f8fafc;
+}
+
+.chart-section {
+    background-color: #ffffff;
+    padding: 16px;
+    padding-top: 50px; /* Added padding to the top */
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    display: flex; 
+    justify-content: center; 
+    align-items: flex-start; 
+    height: 600px;
+}
+
+.chart-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+
