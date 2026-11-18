@@ -17,7 +17,7 @@ L.Icon.Default.mergeOptions({
   iconAnchor: [12, 41],
 });
 
-//property listing info
+//property tooltip
 export type Property = {
   latitude: number;
   longitude: number;
@@ -28,8 +28,8 @@ export type Property = {
 
 //
 type MapProps = {
-  listings: Property[]; //property listings
-  maxAffordablePrice: number; //max affordable price
+  listings: Property[];
+  maxAffordablePrice: number;
 };
 
 const Map: React.FC<MapProps> = ({ listings, maxAffordablePrice }) => {
@@ -43,9 +43,9 @@ const Map: React.FC<MapProps> = ({ listings, maxAffordablePrice }) => {
     });
   };
 
-  //ensuring listings is an array
+  //debug for demo listings
   if (!Array.isArray(listings)) {
-    console.error("Listings is not an array:", listings); // 👈 helpful debug
+    console.error("Listings is not an array:", listings);
     return <p style={{ color: "red" }}>No property data available.</p>;
   }
 
